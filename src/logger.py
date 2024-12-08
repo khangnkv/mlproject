@@ -17,6 +17,4 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-# Add test log messages
-if __name__ == "__main__":
-    logging.info("Logging has started")
+
